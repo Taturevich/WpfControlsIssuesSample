@@ -23,8 +23,7 @@
         <TextBox Name="ValidatedTextBox"
                  Style="{StaticResource CommonStyle}"
                  Text="{Binding Age,
-                                Mode=TwoWay, 
-                                UpdateSourceTrigger=PropertyChanged}">
+                                Mode=TwoWay}">
         </TextBox>
         <ComboBox Grid.Row="1"
                   SelectedIndex="0"
