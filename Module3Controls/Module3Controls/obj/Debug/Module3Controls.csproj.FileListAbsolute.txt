@@ -1,0 +1,32 @@
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\bin\Debug\Module3Controls.exe.config
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\bin\Debug\Module3Controls.exe
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\bin\Debug\Module3Controls.pdb
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\bin\Debug\FizzWare.NBuilder.dll
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.csprojResolveAssemblyReference.cache
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\MainWindow.g.cs
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\App.g.cs
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls_MarkupCompile.cache
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls_MarkupCompile.lref
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\MainWindow.baml
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.g.resources
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.Properties.Resources.resources
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.csproj.GenerateResource.Cache
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.exe
+c:\users\ivan_taturevich\documents\visual studio 2015\Projects\Module3Controls\Module3Controls\obj\Debug\Module3Controls.pdb
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\bin\Debug\Module3Controls.exe.config
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\bin\Debug\Module3Controls.exe
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\bin\Debug\Module3Controls.pdb
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\bin\Debug\FizzWare.NBuilder.dll
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.csprojResolveAssemblyReference.cache
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\App.g.cs
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls_MarkupCompile.cache
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls_MarkupCompile.lref
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\MainWindow.baml
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.g.resources
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.Properties.Resources.resources
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.csproj.GenerateResource.Cache
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.exe
+C:\Users\Ivan_Taturevich\Documents\WpfControlsIssuesSample\Module3Controls\Module3Controls\obj\Debug\Module3Controls.pdb
